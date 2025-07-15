@@ -1,0 +1,16 @@
+C:\Users\Asus Tuf F15\Desktop\Visual\Visual Studio\Uni\Lab 9-4\Lab 9-4\bin\Debug\net8.0-windows\Lab 9-4.exe
+C:\Users\Asus Tuf F15\Desktop\Visual\Visual Studio\Uni\Lab 9-4\Lab 9-4\bin\Debug\net8.0-windows\Lab 9-4.deps.json
+C:\Users\Asus Tuf F15\Desktop\Visual\Visual Studio\Uni\Lab 9-4\Lab 9-4\bin\Debug\net8.0-windows\Lab 9-4.runtimeconfig.json
+C:\Users\Asus Tuf F15\Desktop\Visual\Visual Studio\Uni\Lab 9-4\Lab 9-4\bin\Debug\net8.0-windows\Lab 9-4.dll
+C:\Users\Asus Tuf F15\Desktop\Visual\Visual Studio\Uni\Lab 9-4\Lab 9-4\bin\Debug\net8.0-windows\Lab 9-4.pdb
+C:\Users\Asus Tuf F15\Desktop\Visual\Visual Studio\Uni\Lab 9-4\Lab 9-4\obj\Debug\net8.0-windows\Lab_9_4.Form1.resources
+C:\Users\Asus Tuf F15\Desktop\Visual\Visual Studio\Uni\Lab 9-4\Lab 9-4\obj\Debug\net8.0-windows\Lab 9-4.csproj.GenerateResource.cache
+C:\Users\Asus Tuf F15\Desktop\Visual\Visual Studio\Uni\Lab 9-4\Lab 9-4\obj\Debug\net8.0-windows\Lab 9-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus Tuf F15\Desktop\Visual\Visual Studio\Uni\Lab 9-4\Lab 9-4\obj\Debug\net8.0-windows\Lab 9-4.AssemblyInfoInputs.cache
+C:\Users\Asus Tuf F15\Desktop\Visual\Visual Studio\Uni\Lab 9-4\Lab 9-4\obj\Debug\net8.0-windows\Lab 9-4.AssemblyInfo.cs
+C:\Users\Asus Tuf F15\Desktop\Visual\Visual Studio\Uni\Lab 9-4\Lab 9-4\obj\Debug\net8.0-windows\Lab 9-4.csproj.CoreCompileInputs.cache
+C:\Users\Asus Tuf F15\Desktop\Visual\Visual Studio\Uni\Lab 9-4\Lab 9-4\obj\Debug\net8.0-windows\Lab 9-4.dll
+C:\Users\Asus Tuf F15\Desktop\Visual\Visual Studio\Uni\Lab 9-4\Lab 9-4\obj\Debug\net8.0-windows\refint\Lab 9-4.dll
+C:\Users\Asus Tuf F15\Desktop\Visual\Visual Studio\Uni\Lab 9-4\Lab 9-4\obj\Debug\net8.0-windows\Lab 9-4.pdb
+C:\Users\Asus Tuf F15\Desktop\Visual\Visual Studio\Uni\Lab 9-4\Lab 9-4\obj\Debug\net8.0-windows\Lab 9-4.genruntimeconfig.cache
+C:\Users\Asus Tuf F15\Desktop\Visual\Visual Studio\Uni\Lab 9-4\Lab 9-4\obj\Debug\net8.0-windows\ref\Lab 9-4.dll
