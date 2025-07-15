@@ -1,0 +1,16 @@
+C:\Users\Asus Tuf F15\Desktop\Visual\Visual Studio\Uni\Lab 3-2 (9-9-24)\Lab 3-2 (9-9-24)\obj\Debug\net8.0-windows\Lab_3_2__9_9_24_.Form1.resources
+C:\Users\Asus Tuf F15\Desktop\Visual\Visual Studio\Uni\Lab 3-2 (9-9-24)\Lab 3-2 (9-9-24)\obj\Debug\net8.0-windows\Lab 3-2 (9-9-24).csproj.GenerateResource.cache
+C:\Users\Asus Tuf F15\Desktop\Visual\Visual Studio\Uni\Lab 3-2 (9-9-24)\Lab 3-2 (9-9-24)\obj\Debug\net8.0-windows\Lab 3-2 (9-9-24).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus Tuf F15\Desktop\Visual\Visual Studio\Uni\Lab 3-2 (9-9-24)\Lab 3-2 (9-9-24)\obj\Debug\net8.0-windows\Lab 3-2 (9-9-24).AssemblyInfoInputs.cache
+C:\Users\Asus Tuf F15\Desktop\Visual\Visual Studio\Uni\Lab 3-2 (9-9-24)\Lab 3-2 (9-9-24)\obj\Debug\net8.0-windows\Lab 3-2 (9-9-24).AssemblyInfo.cs
+C:\Users\Asus Tuf F15\Desktop\Visual\Visual Studio\Uni\Lab 3-2 (9-9-24)\Lab 3-2 (9-9-24)\obj\Debug\net8.0-windows\Lab 3-2 (9-9-24).csproj.CoreCompileInputs.cache
+C:\Users\Asus Tuf F15\Desktop\Visual\Visual Studio\Uni\Lab 3-2 (9-9-24)\Lab 3-2 (9-9-24)\bin\Debug\net8.0-windows\Lab 3-2 (9-9-24).exe
+C:\Users\Asus Tuf F15\Desktop\Visual\Visual Studio\Uni\Lab 3-2 (9-9-24)\Lab 3-2 (9-9-24)\bin\Debug\net8.0-windows\Lab 3-2 (9-9-24).deps.json
+C:\Users\Asus Tuf F15\Desktop\Visual\Visual Studio\Uni\Lab 3-2 (9-9-24)\Lab 3-2 (9-9-24)\bin\Debug\net8.0-windows\Lab 3-2 (9-9-24).runtimeconfig.json
+C:\Users\Asus Tuf F15\Desktop\Visual\Visual Studio\Uni\Lab 3-2 (9-9-24)\Lab 3-2 (9-9-24)\bin\Debug\net8.0-windows\Lab 3-2 (9-9-24).dll
+C:\Users\Asus Tuf F15\Desktop\Visual\Visual Studio\Uni\Lab 3-2 (9-9-24)\Lab 3-2 (9-9-24)\bin\Debug\net8.0-windows\Lab 3-2 (9-9-24).pdb
+C:\Users\Asus Tuf F15\Desktop\Visual\Visual Studio\Uni\Lab 3-2 (9-9-24)\Lab 3-2 (9-9-24)\obj\Debug\net8.0-windows\Lab 3-2 (9-9-24).dll
+C:\Users\Asus Tuf F15\Desktop\Visual\Visual Studio\Uni\Lab 3-2 (9-9-24)\Lab 3-2 (9-9-24)\obj\Debug\net8.0-windows\refint\Lab 3-2 (9-9-24).dll
+C:\Users\Asus Tuf F15\Desktop\Visual\Visual Studio\Uni\Lab 3-2 (9-9-24)\Lab 3-2 (9-9-24)\obj\Debug\net8.0-windows\Lab 3-2 (9-9-24).pdb
+C:\Users\Asus Tuf F15\Desktop\Visual\Visual Studio\Uni\Lab 3-2 (9-9-24)\Lab 3-2 (9-9-24)\obj\Debug\net8.0-windows\Lab 3-2 (9-9-24).genruntimeconfig.cache
+C:\Users\Asus Tuf F15\Desktop\Visual\Visual Studio\Uni\Lab 3-2 (9-9-24)\Lab 3-2 (9-9-24)\obj\Debug\net8.0-windows\ref\Lab 3-2 (9-9-24).dll
